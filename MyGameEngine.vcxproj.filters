@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Engine">
+      <UniqueIdentifier>{54ed5cd4-52c3-48ff-bc66-dba9eb4e02ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Engine\Utils">
+      <UniqueIdentifier>{0d5776d3-850d-4c15-9597-136117ed4753}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Engine\Utils\Subsystems">
+      <UniqueIdentifier>{8e0b03b9-4fe6-4ab2-954e-d35740ed2701}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Subsystems">
+      <UniqueIdentifier>{aac02ead-3d5f-4fbb-a287-0535a7f8b67a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Subsystems\Engine">
+      <UniqueIdentifier>{7930e181-8867-4c16-85bb-34fab9f78c26}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="XCube2d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\BaseGameEngineCode-Xcube2d\BaseGameEngineCode-Xcube2d\SourceCppFiles\Engine\XCube2d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AbstractGame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\BaseGameEngineCode-Xcube2d\BaseGameEngineCode-Xcube2d\SourceCppFiles\Engine\AbstractGame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MyGame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\BaseGameEngineCode-Xcube2d\BaseGameEngineCode-Xcube2d\SourceCppFiles\MyGame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\SubSystems_Graphics&amp;events\SubSystems_Graphics&amp;events\GraphicsEngine.cpp">
+      <Filter>Source Files\Subsystems\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphicsEngine.cpp">
+      <Filter>Source Files\Subsystems\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\SubSystems_Graphics&amp;events\SubSystems_Graphics&amp;events\EventEngine.cpp">
+      <Filter>Source Files\Subsystems\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="EventEngine.cpp">
+      <Filter>Source Files\Subsystems\Engine</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="XCube2d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\BaseGameEngineCode-Xcube2d\BaseGameEngineCode-Xcube2d\HeaderFiles\Engine\XCube2d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AbstractGame.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\BaseGameEngineCode-Xcube2d\BaseGameEngineCode-Xcube2d\HeaderFiles\Engine\AbstractGame.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MyGame.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\BaseGameEngineCode-Xcube2d\BaseGameEngineCode-Xcube2d\HeaderFiles\MyGame.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EngineCommon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameMath.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\BaseGameEngineCode-Xcube2d\BaseGameEngineCode-Xcube2d\HeaderFiles\Engine\Utils\GameMath.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\BaseGameEngineCode-Xcube2d\BaseGameEngineCode-Xcube2d\HeaderFiles\Engine\Utils\EngineCommon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphicsEngine.h">
+      <Filter>Header Files\Engine\Utils\Subsystems</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\SubSystems_Graphics&amp;events\SubSystems_Graphics&amp;events\GraphicsEngine.h">
+      <Filter>Header Files\Engine\Utils\Subsystems</Filter>
+    </ClInclude>
+    <ClInclude Include="EventEngine.h">
+      <Filter>Header Files\Engine\Utils\Subsystems</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\SubSystems_Graphics&amp;events\SubSystems_Graphics&amp;events\EventEngine.h">
+      <Filter>Header Files\Engine\Utils\Subsystems</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
